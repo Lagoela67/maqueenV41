@@ -1,11 +1,12 @@
 {
-    "name": "Maqueen_P01",
+    "name": "Maqueen_P02_neopixel",
     "description": "",
     "dependencies": {
         "core": "*",
         "radio": "*",
         "microphone": "*",
-        "maqueen": "github:dfrobot/pxt-maqueen#v1.7.2"
+        "maqueen": "github:dfrobot/pxt-maqueen#v1.7.2",
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.5"
     },
     "files": [
         "main.blocks",
