@@ -6,7 +6,9 @@
         "radio": "*",
         "microphone": "*",
         "maqueen": "github:dfrobot/pxt-maqueen#v1.7.2",
-        "neopixel": "github:microsoft/pxt-neopixel#v0.7.5"
+        "neopixel": "github:microsoft/pxt-neopixel#v0.7.5",
+        "MakerBit-Ultrasonic": "github:1010technologies/pxt-makerbit-ultrasonic#v1.0.8",
+        "servo": "*"
     },
     "files": [
         "main.blocks",
